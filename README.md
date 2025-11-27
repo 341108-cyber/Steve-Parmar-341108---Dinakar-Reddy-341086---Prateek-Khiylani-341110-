@@ -7,8 +7,8 @@
 **Team Members:**
 
 1. **Steve Parmar (341108)**  
-2. **Prateek Khiyalani**  
-3. **Y Dinakar Reddy**
+2. **Prateek Khiyalani (341110)**  
+3. **Y Dinakar Reddy (341086)**
 
 ## **Project Overview**
 
